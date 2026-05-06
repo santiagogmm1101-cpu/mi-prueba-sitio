@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #eef2f7;
+}
+
+a {
+  color: #0e6fff;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: #0e6fff;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #0b53d7;
+}
