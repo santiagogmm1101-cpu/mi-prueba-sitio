@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>santiago hernandez</h1>
+      <h1 style={styles.title}>santiago hernandez PGL</h1>
       <p style={styles.subtitle}>Este es un proyecto simple listo para publicar.</p>
 
       <div style={styles.card}>
